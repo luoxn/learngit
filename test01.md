@@ -5,3 +5,5 @@ another line
 new line
 
 branch dev
+
+quick & simple
