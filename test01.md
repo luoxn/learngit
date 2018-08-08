@@ -6,4 +6,5 @@ new line
 
 branch dev
 
-quick & simple
+quick & simple createing feature branch
+
